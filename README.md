@@ -1,4 +1,4 @@
-# rbs
+## Room Booking System 
 
 ## Project setup
 ```
